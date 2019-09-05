@@ -18,7 +18,17 @@ public class WrapperClasses {
 		String j = String.valueOf(k);
 		System.out.println("The value of j is " +j);
 		
+		//
+		String t ="100";
+		System.out.println("String is:" + t+20);
+		int y = Integer.parseInt(t);	
+		System.out.println(y+20);
 		
+		String q = "200";
+		double d = Double.parseDouble(q);		
+		System.out.println(d+20.23);
+		
+	
 		
 		
 	}
